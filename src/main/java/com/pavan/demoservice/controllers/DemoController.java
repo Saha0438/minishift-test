@@ -15,7 +15,7 @@ public class DemoController {
 	@GetMapping("/fetch")
 	public Product fetch() {
 		Product product = new Product();
-		product.setName("hi pavan 1");
+		product.setName("hi pavan 123");
 		
 		//Config config = new Config();
 		//config.useSingleServer()
